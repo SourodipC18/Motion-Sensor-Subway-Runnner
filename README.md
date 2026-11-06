@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subway Kids
 
 A **Subway Surfers**-style game controlled by your **body movements** via webcam — powered by **MediaPipe Pose** AI.
@@ -81,3 +82,6 @@ cd server
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+=======
+# Motion-Sensor-Subway-Runnner
+>>>>>>> 2c71850b11658c9825917428b0ef5f535b128564
